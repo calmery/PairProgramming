@@ -1,0 +1,9 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#local, #remote {
+  float: left;
+  width: 50%;
+}
